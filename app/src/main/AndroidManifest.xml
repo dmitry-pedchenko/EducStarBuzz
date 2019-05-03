@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".Drink_category_activity"
+            android:label="@string/title_activity_drink_category_activity">
+
+
+        </activity>
+        <activity
             android:name=".Top_lvl_activity"
             android:label="@string/title_activity_top_lvl_activity"
             android:theme="@style/AppTheme.NoActionBar">

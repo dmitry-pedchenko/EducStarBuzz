@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">EducStarbuzz</string>
     <string name="title_activity_top_lvl_activity">Top_lvl_activity</string>
+    <string name="starBuzz_logo">Starbuzz logo</string>
+    <string name="title_activity_drink_category_activity">drink_category_activity</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    >
 </resources>
