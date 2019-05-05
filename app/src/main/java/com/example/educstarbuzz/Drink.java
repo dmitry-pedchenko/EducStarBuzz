@@ -19,15 +19,15 @@ public class Drink {
             , new Drink("Filter", "Highest quality beans roasted and brewed fresh", R.drawable.filter)
     };
 
-    private String getName() {
+    public String getName() {
         return name;
     }
 
-    private String getDescription() {
+    public String getDescription() {
         return description;
     }
 
-    private int getImageResId() {
+    public int getImageResId() {
         return imageResId;
     }
 
